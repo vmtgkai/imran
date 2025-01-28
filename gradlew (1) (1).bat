@@ -66,7 +66,7 @@ echo. 1>&2
 echo Please set the JAVA_HOME variable in your environment to match the 1>&2
 echo location of your Java installation. 1>&2
 echo. 1>&2
-echo For more information, visit the project repository at: https://github.com/akbulut007/remove-secret.git
+echo For more information, visit the project repository at: https://github.com/vmtgkai/imran.git
 goto fail
 
 :execute
